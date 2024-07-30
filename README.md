@@ -1,5 +1,5 @@
 - 👋 Hi, I’m KIRON PAUL
-- 👀 I’m interested in ...PYHTON/DATA SCIENCE
+- 👀 I’m interested in ...PYHTON/DATA SCIENCE/AI
 - 🌱 I’m currently learning ...PYTHON
 - 😄 Pronouns: ...HE/HIM
 - ⚡ Fun fact: ...I'M NEWBIE🥲
